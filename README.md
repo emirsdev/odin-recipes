@@ -1,3 +1,1 @@
-A simple recipe website with a main page that redirects to the recipes.
-
-It is a work in progress at the moment.
+A simple recipe website that includes lots of images with a main page that redirects to the recipes.
