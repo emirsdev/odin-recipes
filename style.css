@@ -1,0 +1,59 @@
+* {
+    background-color: rgb(224, 218, 123);
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    text-align: center;
+    text-decoration: none;
+    line-height: 1.5;
+    
+}
+
+ul,
+ol{
+    display: inline;
+    list-style-position: inside;
+    padding-left: 0;
+
+}
+
+h1 {
+    font-size: 54px;
+    font-weight: 700;
+}
+
+.recipe {
+    font-size: 34px;
+}
+
+.step,
+.nutrition,
+.recipe {
+    list-style-type: none;
+}
+
+a,
+.about,
+.homepage {
+    color: rgb(231, 80, 80);
+}
+
+.rhomepage {
+    display: block;
+    width: 100%;
+    overflow: auto;
+    padding: 10px;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.about
+,.homepage {
+    display: block;
+    width: 100%;
+    overflow: auto;
+    padding: 10px;
+    box-sizing: border-box;
+    position: absolute;
+    bottom: 0px;
+}
